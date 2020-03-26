@@ -1,12 +1,12 @@
-title: Parchment
-author: pro-panda
+title: X
+author: X
 subtitle: A minimal jekyll theme
 
-url: "https://pro-panda.github.io"
+url: "https://xinkai-zhou.github.io"
 baseurl: "/parchment"
 
 footer_only_homepage: true
-footer_url: "https://github.com/pro-panda"
+footer_url: ""
 footer_text: "Theme by pro-panda"
 
 profile-picture: assets/profile.png
@@ -20,5 +20,5 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://pro-panda.github.io/resume.pdf"
+#  - name: "Resume"
+#    absolute-link: "https://pro-panda.github.io/resume.pdf"
