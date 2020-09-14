@@ -1,13 +1,13 @@
-title: X
-author: X
-subtitle: A minimal jekyll theme
+title: bLog(Likelihood)
+author: Xinkai Zhou
+# subtitle: 
 
 url: "https://xinkai-zhou.github.io"
-baseurl: "/parchment"
+baseurl: "/xinkai-zhou"
 
 footer_only_homepage: true
 footer_url: ""
-footer_text: "Theme by pro-panda"
+footer_text: ""
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
@@ -20,5 +20,12 @@ sass:
 navbar:
  - name: "About"
    link: "about"
-#  - name: "Resume"
-#    absolute-link: "https://pro-panda.github.io/resume.pdf"
+ - name: "Publications"
+   absolute-link: "https://scholar.google.be/citations?user=UXNdqWgAAAAJ&hl=en&oi=ao"
+ - name: "CV"
+   absolute-link: "CV.pdf"
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true

@@ -14,7 +14,7 @@ $small-width: 480px;
 body {
     margin: 0;
     font-family: "Inconsolata";
-    background-color: rgb(255, 255, 250);
+    background-color: rgb(255, 255, 255);
     min-height: 100%;
 }
 a {
@@ -29,9 +29,27 @@ hr {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+/* Code Styles */
+// pre {
+//     background: #f4f4f4;
+//     border: 1px solid #ddd;
+//     border-left: 3px solid #f36d33;
+//     color: #666;
+//     page-break-inside: avoid;
+//     font-family: monospace;
+//     font-size: 15px;
+//     line-height: 1.6;
+//     margin-bottom: 1.6em;
+//     max-width: 100%;
+//     overflow: auto;
+//     padding: 1em 1.5em;
+//     display: block;
+//     word-wrap: break-word;
+// }
 code {
-    background-color: #d8e7ff;
-    color: #002b72;
+    background-color: #f4f4f4;
+    color: #000307;
 }
 
 // divs
@@ -214,7 +232,7 @@ code {
         font-style: italic;
     }
     .profile-picture {
-        width: 15%;
+        width: 30%;
         margin: 5px 5px 5px 5px;
         float: right;
         p & {
