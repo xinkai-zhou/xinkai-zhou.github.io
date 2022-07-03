@@ -7,7 +7,8 @@ profile:
   align: right
   image: profile-pic.png
   address: >
-  # <p>xinkaizhou [at] ucla [dot] edu</p>
+          <p> Get in touch: xinkaizhou [at] </p>
+          <p> ucla [dot] edu </p>
 
 news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
