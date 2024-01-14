@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2022, 2023, 2024]
+years: [2023, 2022]
 nav: true
 nav_order: 2
 ---
@@ -19,4 +19,4 @@ nav_order: 2
 </div>
 
 
-For all publications, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=UXNdqWgAAAAJ).
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=UXNdqWgAAAAJ) for a complete list of publications.

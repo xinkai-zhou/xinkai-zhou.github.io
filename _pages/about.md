@@ -10,7 +10,7 @@ profile:
           <p> Get in touch: xzhou118 </p>
           <p> [at] jhu [dot] edu </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -23,3 +23,9 @@ Prior to joining Hopkins, I received PhD in Biostatistics from UCLA, mentored by
 
 In my free time, I enjoy playing soccer and reading history books. I am also the founder and co-host of the Two Nearest Neighbors podcast (link to: [Spotify](https://open.spotify.com/show/3EoHTgSLU5l1qZfZB3nwwK), [Apple Podcast](https://podcasts.apple.com/us/podcast/two-nearest-neighbors/id1600839339)) with [Nicholas Marco](https://ndmarco.github.io), where we talk to professors about current topics in statistics, machine learning, and big data.
  
+## Honors and Awards
+- Biostatistics Outstanding Student Award, UCLA, June, 2023
+- Delta Omega Honorary Society in Public Health, June, 2023
+- ASA Student Paper Award, 	Sections on Computing and Graphics, August, 2022
+- Eugene and Sallyann Fama Fellowship, UCLA, June, 2020
+- Graduate Summer Research Fellowship, UCLA, 2019 and 2020
