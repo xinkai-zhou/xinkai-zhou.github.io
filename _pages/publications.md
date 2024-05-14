@@ -21,6 +21,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=UXNdqWgAAAA
 
 </div>
 
+<hr>
+
 ## Invited Talks
 - ICSA Applied Statistics Symposium, 2024, Nashville, USA
 - ENAR Spring Meeting, 2024, Baltimore, USA
