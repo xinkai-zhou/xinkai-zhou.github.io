@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"arXiv":
+  url: https://arxiv.org
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Am. Stat.":
+  url: https://www.tandfonline.com/journals/utas20
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"Stat. Anal. Data Min.":
+  url: https://onlinelibrary.wiley.com/journal/19321872
+  color: "#00369f"

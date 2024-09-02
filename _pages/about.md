@@ -1,25 +1,38 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile-pic.png
+  email:
+  more_info: <p> xzhou118 [at] jhu [dot] edu</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral fellow in the Department of Biostatistics at Johns Hopkins University, mentored by [Ciprian Crainiceanu](http://www.ciprianstats.org). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on developing flexible and scalable statistical modeling and inference tools for large-scale, high-dimensional, and repeatedly collected modern health data. Two application areas of focus are hemodynamics data collected during surgery and physical activity data collected using accelerometers. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to joining Hopkins, I received PhD in Biostatistics from UCLA, mentored by [Hua Zhou](http://hua-zhou.github.io). Before that, I was a senior statistician at the UCLA Department of Medicine Statistics Core led by [David Elashoff](https://domstat.med.ucla.edu/pages/david-elashoff). 
+
+I have collaborated with investigators from a variety of departments/institutions, including the Department of Epidemiology and Department of Anesthesiology from Hopkins, and the Department of Medicine, Stein Eye Institute, Jonsson Comprehensive Cancer Center, and Cedars-Sinai Medical Center from UCLA.
+
+In my free time, I enjoy playing soccer, exploring fresh music, and reading the [Three Hundred Tang Poems](https://en.wikipedia.org/wiki/Three_Hundred_Tang_Poems). 
+<!-- I am also the founder and co-host of the Two Nearest Neighbors podcast (link to: [Spotify](https://open.spotify.com/show/3EoHTgSLU5l1qZfZB3nwwK), [Apple Podcast](https://podcasts.apple.com/us/podcast/two-nearest-neighbors/id1600839339)) with [Nicholas Marco](https://ndmarco.github.io), where we talk to professors about current topics in statistics, machine learning, and big data. -->
+ 
+
+<br>
+<br>
+<br>
+
+### Honors and Awards
+- Biostatistics Outstanding Student Award, UCLA, June, 2023
+- Delta Omega Honorary Society in Public Health, June, 2023
+- ASA Student Paper Award, 	Sections on Computing and Graphics, August, 2022
+- Eugene and Sallyann Fama Fellowship, UCLA, June, 2020
+- Graduate Summer Research Fellowship, UCLA, 2019 and 2020
