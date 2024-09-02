@@ -2,12 +2,13 @@
 layout: about
 title: About
 permalink: /
+subtitle: ✉️ xzhou118 at jhu dot edu
 
 profile:
   align: right
   image: profile-pic.png
   email:
-  more_info: <p> xzhou118 [at] jhu [dot] edu</p>
+  more_info: 
 
 news: false  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -16,9 +17,9 @@ social: false  # includes social icons at the bottom of the page
 
 I am a postdoctoral fellow in the Department of Biostatistics at Johns Hopkins University, mentored by [Ciprian Crainiceanu](http://www.ciprianstats.org). 
 
-My research focuses on developing flexible and scalable statistical modeling and inference tools for large-scale, high-dimensional, and repeatedly collected modern health data. Two application areas of focus are hemodynamics data collected during surgery and physical activity data collected using accelerometers. 
+My research focuses on developing <ins>flexible, scalable, and interpretable</ins> statistical methods for <ins>large and high-dimensional</ins> modern health data with complex structures. Two application areas of focus are high-resolution hemodynamics data collected during surgery and physical activity data collected using accelerometers. 
 
-Prior to joining Hopkins, I received PhD in Biostatistics from UCLA, mentored by [Hua Zhou](http://hua-zhou.github.io). Before that, I was a senior statistician at the UCLA Department of Medicine Statistics Core led by [David Elashoff](https://domstat.med.ucla.edu/pages/david-elashoff). 
+<!-- Prior to joining Hopkins, I received PhD in Biostatistics from UCLA, mentored by [Hua Zhou](http://hua-zhou.github.io). Before that, I was a senior statistician at the UCLA Department of Medicine Statistics Core led by [David Elashoff](https://domstat.med.ucla.edu/pages/david-elashoff).  -->
 
 I have collaborated with investigators from a variety of departments/institutions, including the Department of Epidemiology and Department of Anesthesiology from Hopkins, and the Department of Medicine, Stein Eye Institute, Jonsson Comprehensive Cancer Center, and Cedars-Sinai Medical Center from UCLA.
 
