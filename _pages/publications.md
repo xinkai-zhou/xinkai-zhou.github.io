@@ -10,7 +10,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-See [Google Scholar](https://scholar.google.com/citations?hl=en&user=UXNdqWgAAAAJ) for a complete list of publications.
+See <ins>[Google Scholar](https://scholar.google.com/citations?hl=en&user=UXNdqWgAAAAJ)</ins> for a complete list of publications.
 
 <br>
 

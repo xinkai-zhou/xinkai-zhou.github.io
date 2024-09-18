@@ -15,13 +15,13 @@ news: false  # includes a list of news items
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral fellow in the Department of Biostatistics at Johns Hopkins University, mentored by [Ciprian Crainiceanu](http://www.ciprianstats.org). 
+I am a postdoctoral fellow in the Department of Biostatistics at Johns Hopkins University, working with [Ciprian Crainiceanu](http://www.ciprianstats.org). Prior to joining Hopkins, I obtained Ph.D. in Biostatistics from UCLA. 
 
-My research focuses on developing <ins>flexible, scalable, and interpretable</ins> statistical methods for <ins>large and high-dimensional</ins> modern health data with complex structures. Two application areas of focus are high-resolution hemodynamics data collected during surgery and physical activity data collected using accelerometers. 
+My current research focuses on developing flexible and scalable <ins>functional data analysis</ins> methods for modeling modern health data collected via <ins>wearable and implantable technologies</ins>. Application areas of focus include high-resolution hemodynamics data collected during heart surgery, physical activity data from accelerometers, and blood glucose data from continuous glucose monitors (CGM). 
 
-<!-- Prior to joining Hopkins, I received PhD in Biostatistics from UCLA, mentored by [Hua Zhou](http://hua-zhou.github.io). Before that, I was a senior statistician at the UCLA Department of Medicine Statistics Core led by [David Elashoff](https://domstat.med.ucla.edu/pages/david-elashoff).  -->
+During PhD, I developed statistical methods and reproducible software to bring <ins>uncertainty quantification</ins> to big data and complex models. Projects include 1) [scaling up inference for mixed models to the ultra-large data setting (> 200 million observations)](https://onlinelibrary.wiley.com/doi/10.1002/sam.11563?af=R); 2) [enabling statistical inference for challenging machine learning tasks such as constrained and regularized regression, matrix completion, and sparse low-rank matrix regression.](https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2308821)
 
-I have collaborated with investigators from a variety of departments/institutions, including the Department of Epidemiology and Department of Anesthesiology from Hopkins, and the Department of Medicine, Stein Eye Institute, Jonsson Comprehensive Cancer Center, and Cedars-Sinai Medical Center from UCLA.
+<!-- I have collaborated with investigators from a variety of departments/institutions, including the Department of Epidemiology and Department of Anesthesiology from Hopkins, and the Department of Medicine, Stein Eye Institute, Jonsson Comprehensive Cancer Center, and Cedars-Sinai Medical Center from UCLA. -->
 
 In my free time, I enjoy playing soccer, exploring fresh music, and reading the [Three Hundred Tang Poems](https://en.wikipedia.org/wiki/Three_Hundred_Tang_Poems). 
 <!-- I am also the founder and co-host of the Two Nearest Neighbors podcast (link to: [Spotify](https://open.spotify.com/show/3EoHTgSLU5l1qZfZB3nwwK), [Apple Podcast](https://podcasts.apple.com/us/podcast/two-nearest-neighbors/id1600839339)) with [Nicholas Marco](https://ndmarco.github.io), where we talk to professors about current topics in statistics, machine learning, and big data. -->
