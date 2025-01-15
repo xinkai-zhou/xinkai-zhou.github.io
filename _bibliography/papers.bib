@@ -1,6 +1,27 @@
 ---
 ---
-@article{sartini2024bmfpca,
+
+@article{zhou2025frim,
+      title={Prediction Inference Using Generalized Functional Mixed Effects Models}, 
+      author={\namebfast{Zhou, X.} and \nameast{Cui, E.} and Joseph Sartini and Ciprian Crainiceanu},
+      year={2025},
+      journal={arXiv preprint arXiv:2501.07842},
+      primaryClass={stat.ME},
+      url={https://arxiv.org/abs/2501.07842},
+}
+@article{zhou2025frim,
+  abbr={arXiv},
+  title={Prediction Inference Using Generalized Functional Mixed Effects Models}, 
+  author={Zhou, Xinkai and Ejia Cui and Joseph Sartini and Ciprian Crainiceanu},
+  year={2024},
+  journal={arXiv preprint arXiv:2501.07842},
+  arXiv={2501.07842},
+  bibtex_show={true},
+  abstract={We introduce inferential methods for prediction based on functional random effects in generalized functional mixed effects models. This is similar to the inference for random effects in generalized linear mixed effects models (GLMMs), but for functional instead of scalar outcomes. The method combines: (1) local GLMMs to extract initial estimators of the functional random components on the linear predictor scale; (2) structural functional principal components analysis (SFPCA) for dimension reduction; and (3) global Bayesian multilevel model conditional on the eigenfunctions for inference on the functional random effects. Extensive simulations demonstrate excellent coverage properties of credible intervals for the functional random effects in a variety of scenarios and for different data sizes. To our knowledge, this is the first time such simulations are conducted and reported, likely because prediction inference was not viewed as a priority and existing methods are too slow to calculate coverage. Methods are implemented in a reproducible R package and demonstrated using the NHANES 2011-2014 accelerometry data.},
+  preview={}
+}
+
+@article{sartini2024fbfpca,
   abbr={arXiv},
   title={Fast {B}ayesian Functional Principal Components Analysis}, 
   author={Joseph Sartini and Zhou, Xinkai and Liz Selvin and Scott Zeger and Ciprian Crainiceanu},
@@ -8,6 +29,7 @@
   journal={arXiv preprint arXiv:2412.11340},
   arXiv={2412.11340},
   bibtex_show={true},
+  code={https://github.com/JSartini/FAST_BayesFPCA_Supplement},
   abstract={Functional Principal Components Analysis (FPCA) is one of the most successful and widely used analytic tools for exploration and dimension reduction of functional data. Standard implementations of FPCA estimate the principal components from the data but ignore their sampling variability in subsequent inferences. To address this problem, we propose the Fast Bayesian Functional Principal Components Analysis (Fast BayesFPCA), that treats principal components as parameters on the Stiefel manifold. To ensure efficiency, stability, and scalability we introduce three innovations: (1) project all eigenfunctions onto an orthonormal spline basis, reducing modeling considerations to a smaller-dimensional Stiefel manifold; (2) induce a uniform prior on the Stiefel manifold of the principal component spline coefficients via the polar representation of a matrix with entries following independent standard Normal priors; and (3) constrain sampling using the assumed FPCA structure to improve stability. We demonstrate the application of Fast BayesFPCA to characterize the variability in mealtime glucose from the Dietary Approaches to Stop Hypertension for Diabetes Continuous Glucose Monitoring (DASH4D CGM) study. All relevant STAN code and simulation routines are available as supplementary material.},
   preview={}
 }
@@ -21,6 +43,7 @@
   journal={arXiv preprint arXiv:2411.10312},
   arXiv={2411.10312},
   bibtex_show={true},
+  code={https://github.com/yulu98/GCFPCA},
   abstract={We propose generalized conditional functional principal components analysis (GC-FPCA) for the joint modeling of the fixed and random effects of non-Gaussian functional outcomes. The method scales up to very large functional data sets by estimating the principal components of the covariance matrix on the linear predictor scale conditional on the fixed effects. This is achieved by combining three modeling innovations: (1) fit local generalized linear mixed models (GLMMs) conditional on covariates in windows along the functional domain; (2) conduct a functional principal component analysis (FPCA) on the person-specific functional effects obtained by assembling the estimated random effects from the local GLMMs; and (3) fit a joint functional mixed effects model conditional on covariates and the estimated principal components from the previous step. GC-FPCA was motivated by modeling the minute-level active/inactive profiles over the day (1,440 0/1 measurements per person) for 8,700 study participants in the National Health and Nutrition Examination Survey (NHANES) 2011-2014. We show that state-of-the-art approaches cannot handle data of this size and complexity, while GC-FPCA can.},
   preview={}
 }
