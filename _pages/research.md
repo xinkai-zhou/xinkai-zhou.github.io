@@ -28,7 +28,7 @@ Many of us wear devices like Fitbit, Apple Watch, and Dexcom Stelo to continuous
 
 **Related publication** 
 - [**Zhou, X.**, Cui, E., Sartini, J. and Crainiceanu, C.M., 2025. Prediction Inference Using Generalized Functional Mixed Effects Models. arXiv preprint arXiv:2501.07842.](https://arxiv.org/abs/2501.07842)
-- [Sartini, J., **Zhou, X.**, Selvin, L., Zeger, S. and Crainiceanu, C.M., 2024. Analysis of Active/Inactive Patterns in the NHANES Data using Generalized Multilevel Functional Principal Component Analysis. arXiv preprint arXiv:2412.11340.](https://arxiv.org/abs/2412.11340)
+- [Sartini, J., **Zhou, X.**, Selvin, L., Zeger, S. and Crainiceanu, C.M., 2024. Fast Bayesian Functional Principal Components Analysis. arXiv preprint arXiv:2412.11340.](https://arxiv.org/abs/2412.11340)
 - [Lu, Y., **Zhou, X.**, Cui, E., Rogers, D., Crainiceanu, C.M., Wrobel, J. and Leroux, A., 2024. Generalized Conditional Functional Principal Component Analysis. arXiv preprint arXiv:2411.10312.](https://arxiv.org/abs/2411.10312)
 - [**Zhou, X.**, Wrobel, J., Crainiceanu, C.M. and Leroux, A., 2023. Analysis of Active/Inactive Patterns in the NHANES Data using Generalized Multilevel Functional Principal Component Analysis. arXiv preprint arXiv:2311.14054.](https://arxiv.org/abs/2311.14054)
 

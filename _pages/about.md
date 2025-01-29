@@ -27,6 +27,12 @@ My current research focuses on developing flexible and scalable <ins>functional 
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Honors and Awards
 - Biostatistics Outstanding Student Award, UCLA, June, 2023
